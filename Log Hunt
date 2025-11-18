@@ -1,0 +1,4 @@
+11/17/2025
+Log Hunt was a very simple, beginner friendly CTF, it featured a very large document with miscellaneous text with fragments of the flag placed in different parts of the document.
+One must simply use CTRL-F command, to use find, and insert the text flag, to find each fragment, then, copy and paste each fragment into the input.
+Very very simple CTF, I mostly wrote this analysis so I could create a format for future analyses, as well as better familiarize myself with picoCTF, as it has been since highschool since I last completed a CTF.
